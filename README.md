@@ -38,7 +38,7 @@ Scene navigation and a full-manuscript reader support moving between present and
 
 Infinite Manuscript was proposed as a module/use case within **Atelier**, a broader creative workbench. Its later local Studio implementation must be assessed on its own evidence, not inferred from Atelier's maturity. Prototype Zero is part of that development history, not a separate product.
 
-The application also reuses selected components from Sheila Studios' **[RP Host](https://github.com/sheilastudios/rp-host)** work. Atelier's conceptual relationship, RP/Companion component reuse and Infinite Manuscript's application results are different relationships, not one merged product.
+The application also reuses selected components from Sheila Studios' **[The Entropy Engine](https://github.com/sheilastudios/rp-host)** work (previously presented as RP Host; current working name). Atelier's conceptual relationship, RP/Companion component reuse and Infinite Manuscript's application results are different relationships, not one merged product.
 
 ## Status and evidence
 
